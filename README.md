@@ -8,7 +8,7 @@ Using this tap is as simple as any:
 
 ```shell
 # load the tap
-brew tap drmyers/history https://git.innova-partners.com/drmyers/homebrew-history
+brew tap drmyers/history git@git.innova-partners.com:drmyers/homebrew-history.git
 ```
 
 ### Example
