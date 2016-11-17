@@ -1,4 +1,4 @@
-cask 'virtualbox' do
+cask 'virtualbox-5.1.6' do
   version '5.1.6-110634'
   sha256 '3fc6e2f1eb6d25ccf91194a102d2dd22b51a23df469257ea4d3893e1c5056e85'
 
